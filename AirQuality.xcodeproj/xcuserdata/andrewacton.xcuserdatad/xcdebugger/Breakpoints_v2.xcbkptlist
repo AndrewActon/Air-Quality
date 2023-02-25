@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ED4D2D6B-F791-4B62-B408-D426B6F97509"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "007D7779-CC22-4246-AADE-F80AD54CCE05"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AirQuality/Controllers/ModelControllers/AirQualityController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "fetchCities(forState:inCountry:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "180F64C8-6CA9-46A9-95E9-373952C88753"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AirQuality/Controllers/ModelControllers/AirQualityController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "fetchCities(forState:inCountry:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "588FCC33-AE30-447A-923B-4ABD66E242EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AirQuality/Controllers/ModelControllers/AirQualityController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "fetchCities(forState:inCountry:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A12746BF-83E4-4705-AB36-CF2D5F35E5AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AirQuality/Controllers/ModelControllers/AirQualityController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "fetchCities(forState:inCountry:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A12746BF-83E4-4705-AB36-CF2D5F35E5AD - 34e74ed5220cdc79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AirQuality.AirQualityController.fetchCities(forState: Swift.String, inCountry: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;Swift.String&gt;, AirQuality.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AirQuality"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewacton/Documents/devmountain/Specialization/Unit4/AirQuality/AirQuality/Controllers/ModelControllers/AirQualityController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "3244">
+               </Location>
+               <Location
+                  uuid = "A12746BF-83E4-4705-AB36-CF2D5F35E5AD - 742965cc87b5e5a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static AirQuality.AirQualityController.fetchCities(forState: Swift.String, inCountry: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;Swift.String&gt;, AirQuality.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AirQuality"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewacton/Documents/devmountain/Specialization/Unit4/AirQuality/AirQuality/Controllers/ModelControllers/AirQualityController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
